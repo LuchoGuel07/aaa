@@ -31,5 +31,11 @@ const ELEMENT_DATA: PeriodicElement[] = [
   {marca: 'DC', talla: 'L', articulo: 'Camiseta', cantidad: 2},
   {marca: 'Fila', talla: 'XXL', articulo: 'Camiseta', cantidad: 52},
   {marca: 'Kappa', talla: 'S', articulo: 'Camiseta', cantidad: 32},
+  {marca: 'Le Coq Sportif', talla: '38', articulo: 'Tenis', cantidad: 8},
+  {marca: 'Asics ', talla: '30', articulo: 'Camiseta', cantidad: 42},
+  {marca: 'DC', talla: 'L', articulo: 'Camiseta', cantidad: 2},
+  {marca: 'Fila', talla: 'XXL', articulo: 'Camiseta', cantidad: 52},
+  {marca: 'Kappa', talla: 'S', articulo: 'Camiseta', cantidad: 32},
   {marca: 'Le Coq Sportif', talla: '38', articulo: 'Tenis', cantidad: 8}   
+  
 ]; 
